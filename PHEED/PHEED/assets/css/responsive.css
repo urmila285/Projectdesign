@@ -1,0 +1,527 @@
+@media screen and (max-width: 1620px) {}
+
+@media screen and (max-width: 1560px) {}
+
+@media screen and (max-width: 1440px) {
+    .img-with--tab {
+        padding: 0 60px;
+    }
+}
+
+@media screen and (max-width: 1360px) {
+    .text-main {
+        padding: 0 30px;
+    }
+
+    .text-section span {
+        margin-top: 10px;
+    }
+
+    .img-tab h2 {
+        font-size: 20px;
+    }
+
+    .img-with--tab {
+        padding: 0 40px;
+    }
+
+    .img-tab h3 {
+        margin-top: 10px;
+    }
+
+    .faq-drawer {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 1279px) {
+    .text-section h2 {
+        font-size: 22px;
+    }
+
+    .faq-drawer {
+        margin-bottom: 10px;
+    }
+
+    .img-with--tab a {
+        margin-top: 20px;
+    }
+
+    .menu-links-right h3 {
+        font-size: 20px;
+    }
+
+    .service-box img {
+        padding: 50px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .banner-text h1 {
+        font-size: 33px;
+    }
+
+    .banner-text p {
+        font-size: 30px;
+    }
+
+    .review-text p {
+        max-width: 600px;
+    }
+
+    .review-text h3 {
+        font-size: 25px;
+    }
+
+    .text-section span {
+        font-size: 15px;
+    }
+
+    .img-tab h2 {
+        font-size: 18px;
+    }
+
+    .faq-drawer__content p {
+        font-size: 12px;
+    }
+
+    .menu-links-right h3 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .nav-items ul li {
+        padding: 30px;
+    }
+    .banner-text h1 {
+        font-size: 30px;
+    }
+
+    .banner-text p {
+        font-size: 30px;
+    }
+
+    .review-text p {
+        max-width: 600px;
+    }
+
+    .review-text h3 {
+        font-size: 25px;
+    }
+
+    .text-section span {
+        font-size: 15px;
+    }
+
+    .img-tab h2 {
+        font-size: 17px;
+    }
+
+    .faq-drawer__content p {
+        font-size: 10px;
+    }
+
+    .menu-links-right h3 {
+        font-size: 16px;
+    }
+
+    .img-with--tab a {
+        margin-top: 10px;
+    }
+
+    .faq-drawer__title {
+        padding: 10px;
+    }
+
+    .img-tab h3 {
+        margin-top: 5px;
+        font-size: 17px;
+    }
+
+    .text--section h2 {
+        font-size: 18px;
+    }
+
+    .text-section h2 {
+        font-size: 20px;
+    }
+
+    .text-section h3 {
+        font-size: 23px;
+    }
+
+    .service-box img {
+        padding: 40px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+.header-icon a:nth-child(1) {
+    display: none;
+}
+
+#main {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+    .nav-items {
+        display: none;
+    }
+
+    .banner-section-text {
+        flex: 0 0 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .banner-text h1 {
+        font-size: 30px;
+    }
+
+    .banner-text p {
+        font-size: 30px;
+    }
+
+    .icon-img-with-text {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .service-box {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+
+    .feuture-collection-section {
+        flex-wrap: wrap;
+    }
+
+    .feuture-collection-img {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .review-text p {
+        max-width: 400px;
+    }
+
+    .review-text h3 {
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+
+    .img-with-text-section {
+        flex-wrap: wrap;
+    }
+
+    .img-with-text {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .img-with-text h2 {
+        font-size: 25px;
+    }
+
+    .text-section h3 {
+        margin-top: 25px;
+        font-size: 25px;
+    }
+
+    .text-section span {
+        display: block;
+        margin-top: 20px;
+        font-size: 18px;
+    }
+
+    .text-section span i {
+        font-weight: bold;
+        padding: 0 15px 0 0;
+    }
+
+    .text-section {
+        padding: 120px 50px;
+    }
+
+    .img-with--text {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .text--section h2 {
+        font-size: 25px;
+    }
+
+    .text--section h3 {
+        font-size: 25px;
+    }
+
+    .text--section span {
+        display: block;
+        font-size: 18px;
+    }
+
+    .text-section span i {
+        padding: 0 15px 0 0;
+    }
+
+    .collection--img {
+        flex-wrap: wrap;
+    }
+
+    .collection-list-img {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .img-with-tab-section {
+        flex-wrap: wrap;
+    }
+
+    .img-with-tab {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .img-with--tab {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 60px;
+    }
+
+    .img-with--tab a {
+        display: inline-block;
+        margin-top: 40px;
+    }
+
+    .img-with--tab h2 {
+        margin-bottom: 30px;
+        font-size: 25px;
+    }
+
+    .img-with--tab h3 {
+        margin-top: 50px;
+        font-size: 20px;
+    }
+
+    .faq-drawer {
+        margin-bottom: 30px;
+    }
+
+    .img-tab p {
+        font-size: 15px;
+    }
+
+    .insta-feed {
+        flex-wrap: wrap;
+    }
+
+    .insta-feed-img {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+
+    .row {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .menu-links {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+
+    .menu-links-right {
+        flex: 0 0 70%;
+        max-width: 70%;
+        margin-top: 10%;
+    }
+
+    .menu-links-right h3 {
+        font-size: 25px;
+    }
+
+    input {
+        width: 85%;
+    }
+
+    .review-section-text {
+        padding: 120px 10px;
+    }
+
+}
+
+@media screen and (max-width: 639px) {
+    .banner-text h1 {
+        font-size: 25px;
+    }
+
+    .announcement-bar-right {
+        display: none;
+    }
+
+    .banner-section-text {
+        flex: 0 0 60%;
+        max-width: 60%;
+    }
+
+    .banner-text p {
+        font-size: 25px;
+    }
+
+    .icon-with-text h2 {
+        font-size: 20px;
+    }
+
+    .review-text p {
+        max-width: 300px;
+    }
+
+    .review-text h3 {
+        max-width: 300px;
+        font-size: 20px;
+    }
+
+    .text-section {
+        padding: 40px;
+    }
+
+    .text-section h2 {
+        font-size: 20px;
+    }
+
+    .img-tab h2 {
+        font-size: 20px;
+    }
+
+    .banner-section-text {
+        flex: 0 0 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .icon-with-text h2 {
+        font-size: 15px;
+    }
+
+    .service-box {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .service-box a img {
+        padding: 30px;
+    }
+
+    .review-text p {
+        max-width: 230px;
+        font-size: 12px;
+    }
+
+    .review-text h3 {
+        max-width: 230px;
+        font-size: 17px;
+    }
+
+    .text-section h2 {
+        font-size: 16px;
+    }
+
+    .text-main {
+        padding: 10px;
+    }
+
+    .img-with--tab {
+        padding: 20px;
+    }
+
+    .img-tab h2 {
+        font-size: 17px;
+    }
+
+    .img-tab h3 {
+        font-size: 17px;
+    }
+
+    .insta-feed-text h3 {
+        font-size: 20px;
+    }
+
+    .menu-links-right h3 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .banner-section-text {
+        flex: 0 0 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .icon-with-text h2 {
+        font-size: 20px;
+    }
+
+    .service-box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .service-box a img {
+        padding: 60px;
+    }
+
+    .feuture-collection-img {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 10%;
+    }
+
+    .text-section {
+        padding: 10px;
+    }
+
+    .text-section h3 {
+        font-size: 20px;
+    }
+
+    .text-section span {
+        font-size: 15px;
+    }
+
+    .menu-links-right {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .bottom-footer span a {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 320px) {
+.announcement-center-text p {
+    font-size: 10px;
+}
+}
+
